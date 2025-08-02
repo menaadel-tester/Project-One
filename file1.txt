@@ -1,3 +1,2 @@
 Create Home Page 
-Create Sales Module Page 
-create Dashboard Page 
+Create Sales Module Page
